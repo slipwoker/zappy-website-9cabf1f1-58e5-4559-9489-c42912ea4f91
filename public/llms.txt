@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://example.com
+https://mr-dj.zappy5.app
 מיסטר DJ מביא את האנרגיה והקצב לכל מסיבת כיתה, יום הולדת או אירוע משפחתי. מוזיקה, תאורה וחוויה שמרגשת ילדים ובני נוער. הזמינו עכשיו את ה-DJ שיהפוך את החגיגה שלכם למושלמת!
 
 ### שירותים
-https://example.com/services
+https://mr-dj.zappy5.app/services
 שירותי DJ מקצועיים למסיבות כיתה, בר מצווה, בת מצווה וימי הולדת במרכזים קהילתיים. ציוד מתקדם, רפרטואר עשיר ואווירה סוחפת שמותאמת בדיוק לגיל ולאירוע שלכם. תנו לילדים לחגוג כמו שצריך!
 
 ### אודות
-https://example.com/about
+https://mr-dj.zappy5.app/about
 מיסטר DJ הוא הרבה יותר מתקליטן – אנחנו יוצרי אווירה שמתמחים באירועי ילדים ונוער. עם ניסיון עשיר במסיבות כיתה, מרכזים קהילתיים וימי הולדת, אנחנו מביאים תשוקה אמיתית לכל חגיגה. גלו מי עומד מאחורי המוזיקה!
 
 ### צור קשר
-https://example.com/contact
+https://mr-dj.zappy5.app/contact
 מוכנים להרים את האירוע הבא שלכם? צרו קשר עם מיסטר DJ עוד היום לתאום מסיבת כיתה, בר מצווה, בת מצווה או כל חגיגה משפחתית במרכזים. ההרפתקה המוזיקלית שלכם מחכה מעבר לטופס – דברו איתנו עכשיו!
 
 ### תודה שפניתם | מיסטר DJ
-https://example.com/thank-you
+https://mr-dj.zappy5.app/thank-you
 מיסטר DJ - תודה שפניתם | מיסטר DJ
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://mr-dj.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://mr-dj.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://mr-dj.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -50,8 +50,8 @@ Information about WCAG compliance and accessibility features.
 - Address: ישראל
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://mr-dj.zappy5.app/contact
+- Endpoint: https://mr-dj.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -81,6 +81,6 @@ Entertainment & Events
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://mr-dj.zappy5.app/sitemap.xml
+- Robots: https://mr-dj.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://mr-dj.zappy5.app/llms-full.txt
