@@ -1,0 +1,83 @@
+# מיסטר DJ — Generative Engine Optimization Map
+
+> A DJ entertainment service specializing in youth and family events, including birthday parties, bar and bat mitzvahs, class parties, and community centers. The business focuses on creating a fun, energetic atmosphere for children and teenagers, catering to a family-oriented audience looking for professional DJ services for milestone celebrations and social gatherings.
+
+---
+
+## Pages
+
+### בית
+https://dj-9cabf1f1.zappy5.app
+מיסטר DJ מביא את האנרגיה והקצב לכל מסיבת כיתה, יום הולדת או אירוע משפחתי. מוזיקה, תאורה וחוויה שמרגשת ילדים ובני נוער. הזמינו עכשיו את ה-DJ שיהפוך את החגיגה שלכם למושלמת!
+
+### שירותים
+https://dj-9cabf1f1.zappy5.app/services
+שירותי DJ מקצועיים למסיבות כיתה, בר מצווה, בת מצווה וימי הולדת במרכזים קהילתיים. ציוד מתקדם, רפרטואר עשיר ואווירה סוחפת שמותאמת בדיוק לגיל ולאירוע שלכם. תנו לילדים לחגוג כמו שצריך!
+
+### אודות
+https://dj-9cabf1f1.zappy5.app/about
+מיסטר DJ הוא הרבה יותר מתקליטן – אנחנו יוצרי אווירה שמתמחים באירועי ילדים ונוער. עם ניסיון עשיר במסיבות כיתה, מרכזים קהילתיים וימי הולדת, אנחנו מביאים תשוקה אמיתית לכל חגיגה. גלו מי עומד מאחורי המוזיקה!
+
+### צור קשר
+https://dj-9cabf1f1.zappy5.app/contact
+מוכנים להרים את האירוע הבא שלכם? צרו קשר עם מיסטר DJ עוד היום לתאום מסיבת כיתה, בר מצווה, בת מצווה או כל חגיגה משפחתית במרכזים. ההרפתקה המוזיקלית שלכם מחכה מעבר לטופס – דברו איתנו עכשיו!
+
+### תודה שפניתם | מיסטר DJ
+https://dj-9cabf1f1.zappy5.app/thank-you
+מיסטר DJ - תודה שפניתם | מיסטר DJ
+
+## Legal & Policy
+
+### Privacy Policy
+https://dj-9cabf1f1.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://dj-9cabf1f1.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://dj-9cabf1f1.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://dj-9cabf1f1.zappy5.app/contact
+- Endpoint: https://dj-9cabf1f1.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `phone` (tel)
+  - `email` (email)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מיסטר DJ
+A DJ entertainment service specializing in youth and family events, including birthday parties, bar and bat mitzvahs, class parties, and community centers. The business focuses on creating a fun, energetic atmosphere for children and teenagers, catering to a family-oriented audience looking for professional DJ services for milestone celebrations and social gatherings.
+
+## Target Audience
+- משפחות, ילדים ובני נוער - ימי הולדת, בר מצווה, בת מצווה, מסיבות כיתה ומרכזים
+- משפחות עם ילדים
+- מתכנני מסיבות בני נוער
+- מארגני מרכזים לאירועים
+
+## Industry
+Entertainment & Events
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://dj-9cabf1f1.zappy5.app/sitemap.xml
+- Robots: https://dj-9cabf1f1.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://dj-9cabf1f1.zappy5.app/llms-full.txt
