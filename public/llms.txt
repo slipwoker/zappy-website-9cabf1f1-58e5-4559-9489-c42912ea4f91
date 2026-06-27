@@ -45,8 +45,9 @@ Information about WCAG compliance and accessibility features.
 ## How to Contact Us
 
 - Email: Lianamorami@gmail.com
-- Phone: 0586662290
-- Phone (tel): tel:0586662290
+- Phone: 0504082514
+- Phone (tel): tel:0504082514
+- Address: ישראל
 
 ### Contact form
 - URL: https://example.com/contact
